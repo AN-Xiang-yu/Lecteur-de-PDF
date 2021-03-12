@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Lecteur de PDF</string>
+    <string name="ajouter_un_pdf">Ajouter un PDF</string>
+    <string name="ajouter_modifier_une_cat_gorie">Ajouter/Modifier une catégorie</string>
+    <string name="modifier_un_pdf">Modifier un PDF</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="categorie">Catégorie :</string>
+    <string name="trier_par">Trier par :</string>
+    <string name="il_n_y_a_aucun_pdf">Il n\'y a aucun pdf !</string>
+    <string name="options">*</string>
 </resources>
