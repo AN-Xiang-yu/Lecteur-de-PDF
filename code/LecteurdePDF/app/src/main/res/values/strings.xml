@@ -8,4 +8,9 @@
     <string name="trier_par">Trier par :</string>
     <string name="il_n_y_a_aucun_pdf">Il n\'y a aucun pdf !</string>
     <string name="options">*</string>
+    <string name="retour"><![CDATA[<-]]></string>
+    <string name="ajouter_supprimer_une_cat_gorie">Ajouter/Supprimer une catégorie</string>
+    <string name="ajout">+</string>
+    <string name="valider">√</string>
+    <string name="nom_de_la_categorie">Nom de la catégorie</string>
 </resources>
